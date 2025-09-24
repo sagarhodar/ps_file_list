@@ -1,0 +1,8 @@
+This PowerShell script will:
+
+Scan the current working directory and all subdirectories
+Generate a tree structure with proper box-drawing characters (├──, └──, │)
+Save the complete directory structure to file_list.txt in the same folder
+Display folders with trailing "/" and files without
+
+The output will match the format you showed in your example, creating a visual tree representation of your current directory structure.Retry
